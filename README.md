@@ -3,7 +3,7 @@
 - I love creating videos during my free time.
 - 🌱 I’m currently learning about Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at techybet@gmail.com! :)
 
 <!---
 magotts/magotts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
